@@ -25,14 +25,14 @@
 		font-style: normal;
 }
 
-/*@font-face {
+@font-face {
 		font-family: 'Muller';
 		src: url('../fonts/Fontfabric - MullerBold.otf') format('opentype'),
 				url('../fonts/fontfabric_-_mullerextrabold-webfont.woff2') format('woff2'),
 				url('../fonts/fontfabric_-_mullerextrabold-webfont.woff') format('woff');
 		font-weight: 700;
 		font-style: normal;
-}/ */
+}
 
 @font-face {
 		font-family: 'Muller';
