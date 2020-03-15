@@ -42,12 +42,3 @@
 		font-weight: 800;
 		font-style: normal;
 }
-
-@font-face {
-    font-family: 'terminalregular';
-    src: url('../fonts/terminal-webfont.woff2') format('woff2'),
-         url('../fonts/terminal-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
